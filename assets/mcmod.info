@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MattCore",
+  "name": "Mattparks Core",
+  "version": "3.0.X",
+  "mcversion": "1.6.4",
+  "description": "Mattparks Core allows any mod made by mattparks to work in unison.",
+  "credits": "Created by Mattparks",
+  "logoFile": "",
+  "url": "http://mattparks.webatu.com/",
+  "updateUrl": "",
+  "authors": [ "Mattparks" ],
+  "parent": "",
+  "screenshots": []
+}
+]
